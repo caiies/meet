@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Politics plant many involve.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
